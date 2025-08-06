@@ -18,25 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NumberGameClass.cs",
-              "DocumentMoniker": "C:\\Users\\SAlste\\exercises\\numberGame\\numberGame.console\\NumberGameClass.cs",
-              "RelativeDocumentMoniker": "numberGame.console\\NumberGameClass.cs",
-              "ToolTip": "C:\\Users\\SAlste\\exercises\\numberGame\\numberGame.console\\NumberGameClass.cs",
-              "RelativeToolTip": "numberGame.console\\NumberGameClass.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T07:45:54.091Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,6 +32,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T07:43:46.165Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberGameClass.cs",
+              "DocumentMoniker": "C:\\Users\\SAlste\\exercises\\numberGame\\numberGame.console\\NumberGameClass.cs",
+              "RelativeDocumentMoniker": "numberGame.console\\NumberGameClass.cs",
+              "ToolTip": "C:\\Users\\SAlste\\exercises\\numberGame\\numberGame.console\\NumberGameClass.cs",
+              "RelativeToolTip": "numberGame.console\\NumberGameClass.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:45:54.091Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
