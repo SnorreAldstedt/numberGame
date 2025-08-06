@@ -1,0 +1,14 @@
+C:\Users\SAlste\exercises\numberGame\numberGame.console\bin\Debug\net9.0\numberGame.console.exe
+C:\Users\SAlste\exercises\numberGame\numberGame.console\bin\Debug\net9.0\numberGame.console.deps.json
+C:\Users\SAlste\exercises\numberGame\numberGame.console\bin\Debug\net9.0\numberGame.console.runtimeconfig.json
+C:\Users\SAlste\exercises\numberGame\numberGame.console\bin\Debug\net9.0\numberGame.console.dll
+C:\Users\SAlste\exercises\numberGame\numberGame.console\bin\Debug\net9.0\numberGame.console.pdb
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.AssemblyInfoInputs.cache
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.AssemblyInfo.cs
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.csproj.CoreCompileInputs.cache
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.dll
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\refint\numberGame.console.dll
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.pdb
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\numberGame.console.genruntimeconfig.cache
+C:\Users\SAlste\exercises\numberGame\numberGame.console\obj\Debug\net9.0\ref\numberGame.console.dll
